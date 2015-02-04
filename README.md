@@ -2,5 +2,5 @@
 some useful stuff for C
   - strings
   - dynamic multi-types arrays
-  - ^hashmaps
+  - multi-types hashmaps
   - js-like event loop with callbacks, variable animating, threaded async
