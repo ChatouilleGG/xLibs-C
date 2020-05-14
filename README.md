@@ -1,6 +1,6 @@
 # xLibs-C
-some useful stuff for C
+Small personal project.
+Trying to reproduce some high level scripting capabilities in the form of a C lib.
   - strings
-  - dynamic multi-types arrays
-  - multi-types hashmaps
-  - (windows only atm) js-like event loop with callbacks, variable animating, threaded async
+  - dynamic multi-typed arrays and maps
+  - (windows only) js-like event loop with callbacks, variable animating, threaded async
